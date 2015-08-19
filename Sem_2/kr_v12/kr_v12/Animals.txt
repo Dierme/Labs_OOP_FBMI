@@ -1,0 +1,3 @@
+Mammal
+Name,Weight,Type,Class,Subclass,Infraclass,Order :
+oops 2 2 2 2 2 2

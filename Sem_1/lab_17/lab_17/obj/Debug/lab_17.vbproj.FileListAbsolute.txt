@@ -1,0 +1,2 @@
+c:\users\олексій\documents\visual studio 2013\Projects\lab_17\lab_17\bin\Debug\lab_17.exe.config
+c:\users\олексій\documents\visual studio 2013\Projects\lab_17\lab_17\bin\Debug\122.exe.config

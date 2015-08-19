@@ -1,0 +1,16 @@
+﻿Build started 17.10.2014 13:29:56.
+     1>Project "C:\Users\Олексій\documents\visual studio 2013\Projects\Lab_2_3\Lab_2_3\Lab_2_3.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         D:\programs\Visual Studio\VC\bin\CL.exe /c /I"C:\Program Files (x86)\Visual Leak Detector\include" /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Software.cpp
+         Software.cpp
+       Link:
+         D:\programs\Visual Studio\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Олексій\documents\visual studio 2013\Projects\Lab_2_3\Debug\Lab_2_3.exe" /INCREMENTAL /NOLOGO /LIBPATH:"C:\Program Files (x86)\Visual Leak Detector\lib\Win32" kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Олексій\documents\visual studio 2013\Projects\Lab_2_3\Debug\Lab_2_3.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Олексій\documents\visual studio 2013\Projects\Lab_2_3\Debug\Lab_2_3.lib" /MACHINE:X86 Debug\Games.obj
+         Debug\main.obj
+         Debug\Software.obj
+         Debug\Text_editor.obj
+         Lab_2_3.vcxproj -> C:\Users\Олексій\documents\visual studio 2013\Projects\Lab_2_3\Debug\Lab_2_3.exe
+     1>Done Building Project "C:\Users\Олексій\documents\visual studio 2013\Projects\Lab_2_3\Lab_2_3\Lab_2_3.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.85

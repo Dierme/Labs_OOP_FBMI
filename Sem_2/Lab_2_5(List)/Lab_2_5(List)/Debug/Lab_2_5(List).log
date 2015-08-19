@@ -1,0 +1,20 @@
+﻿Build started 19.08.2015 19:57:20.
+     1>Project "C:\Users\Олексій\Documents\GitHub\Labs_OOP_FBMI\Lab_2_5(List)\Lab_2_5(List)\Lab_2_5(List).vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /I"C:\Program Files (x86)\Visual Leak Detector\include" /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt List.cpp main.cpp maun.cpp
+         maun.cpp
+         main.cpp
+     1>c:\users\олексій\documents\github\labs_oop_fbmi\lab_2_5(list)\lab_2_5(list)\header.h(119): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+         c:\users\олексій\documents\github\labs_oop_fbmi\lab_2_5(list)\lab_2_5(list)\header.h(117): note: while compiling class template member function 'List<int>::List(int)'
+         c:\users\олексій\documents\github\labs_oop_fbmi\lab_2_5(list)\lab_2_5(list)\main.cpp(13): note: see reference to function template instantiation 'List<int>::List(int)' being compiled
+         c:\users\олексій\documents\github\labs_oop_fbmi\lab_2_5(list)\lab_2_5(list)\main.cpp(13): note: see reference to class template instantiation 'List<int>' being compiled
+     1>c:\users\олексій\documents\github\labs_oop_fbmi\lab_2_5(list)\lab_2_5(list)\header.h(122): error C2783: 'void inp(int *,int)': could not deduce template argument for 'user_class'
+         c:\users\олексій\documents\github\labs_oop_fbmi\lab_2_5(list)\lab_2_5(list)\header.h(41): note: see declaration of 'inp'
+         List.cpp
+     1>c1xx : fatal error C1083: Cannot open source file: 'List.cpp': No such file or directory
+         Generating Code...
+     1>Done Building Project "C:\Users\Олексій\Documents\GitHub\Labs_OOP_FBMI\Lab_2_5(List)\Lab_2_5(List)\Lab_2_5(List).vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:01.30

@@ -1,0 +1,36 @@
+﻿Build started 11.12.2014 13:32:07.
+     1>Project "C:\Users\Олексій\Documents\Visual Studio 2013\Projects\Interpolyachia Newtona\Interpolyachia Newtona\Interpolyachia Newtona.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         D:\programs\Visual Studio\VC\bin\CL.exe /c /I"C:\Program Files (x86)\Visual Leak Detector\include" /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+     1>c:\users\олексій\documents\visual studio 2013\projects\interpolyachia newtona\interpolyachia newtona\main.cpp(35): warning C4305: '=' : truncation from 'double' to 'float'
+     1>c:\users\олексій\documents\visual studio 2013\projects\interpolyachia newtona\interpolyachia newtona\main.cpp(38): warning C4305: '=' : truncation from 'double' to 'float'
+     1>c:\users\олексій\documents\visual studio 2013\projects\interpolyachia newtona\interpolyachia newtona\main.cpp(41): warning C4305: '=' : truncation from 'double' to 'float'
+     1>c:\users\олексій\documents\visual studio 2013\projects\interpolyachia newtona\interpolyachia newtona\main.cpp(44): warning C4305: '=' : truncation from 'double' to 'float'
+     1>c:\users\олексій\documents\visual studio 2013\projects\interpolyachia newtona\interpolyachia newtona\main.cpp(47): warning C4305: '=' : truncation from 'double' to 'float'
+     1>c:\users\олексій\documents\visual studio 2013\projects\interpolyachia newtona\interpolyachia newtona\main.cpp(50): warning C4305: '=' : truncation from 'double' to 'float'
+     1>c:\users\олексій\documents\visual studio 2013\projects\interpolyachia newtona\interpolyachia newtona\main.cpp(53): warning C4305: '=' : truncation from 'double' to 'float'
+     1>c:\users\олексій\documents\visual studio 2013\projects\interpolyachia newtona\interpolyachia newtona\main.cpp(56): warning C4305: '=' : truncation from 'double' to 'float'
+     1>c:\users\олексій\documents\visual studio 2013\projects\interpolyachia newtona\interpolyachia newtona\main.cpp(59): warning C4305: '=' : truncation from 'double' to 'float'
+     1>c:\users\олексій\documents\visual studio 2013\projects\interpolyachia newtona\interpolyachia newtona\main.cpp(62): warning C4305: '=' : truncation from 'double' to 'float'
+     1>c:\users\олексій\documents\visual studio 2013\projects\interpolyachia newtona\interpolyachia newtona\main.cpp(65): warning C4305: '=' : truncation from 'double' to 'float'
+     1>c:\users\олексій\documents\visual studio 2013\projects\interpolyachia newtona\interpolyachia newtona\main.cpp(169): warning C4244: '=' : conversion from 'long double' to 'float', possible loss of data
+     1>c:\users\олексій\documents\visual studio 2013\projects\interpolyachia newtona\interpolyachia newtona\main.cpp(178): warning C4244: '=' : conversion from 'long double' to 'float', possible loss of data
+     1>c:\users\олексій\documents\visual studio 2013\projects\interpolyachia newtona\interpolyachia newtona\main.cpp(188): warning C4244: '=' : conversion from 'long double' to 'float', possible loss of data
+     1>c:\users\олексій\documents\visual studio 2013\projects\interpolyachia newtona\interpolyachia newtona\main.cpp(197): warning C4244: '=' : conversion from 'long double' to 'float', possible loss of data
+     1>c:\users\олексій\documents\visual studio 2013\projects\interpolyachia newtona\interpolyachia newtona\main.cpp(206): warning C4244: '=' : conversion from 'long double' to 'float', possible loss of data
+     1>c:\users\олексій\documents\visual studio 2013\projects\interpolyachia newtona\interpolyachia newtona\main.cpp(218): warning C4244: '=' : conversion from 'long double' to 'float', possible loss of data
+     1>c:\users\олексій\documents\visual studio 2013\projects\interpolyachia newtona\interpolyachia newtona\main.cpp(227): warning C4244: '=' : conversion from 'long double' to 'float', possible loss of data
+     1>c:\users\олексій\documents\visual studio 2013\projects\interpolyachia newtona\interpolyachia newtona\main.cpp(236): warning C4244: '=' : conversion from 'long double' to 'float', possible loss of data
+     1>c:\users\олексій\documents\visual studio 2013\projects\interpolyachia newtona\interpolyachia newtona\main.cpp(245): warning C4244: '=' : conversion from 'long double' to 'float', possible loss of data
+     1>c:\users\олексій\documents\visual studio 2013\projects\interpolyachia newtona\interpolyachia newtona\main.cpp(254): warning C4244: '=' : conversion from 'long double' to 'float', possible loss of data
+       Link:
+         D:\programs\Visual Studio\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Олексій\Documents\Visual Studio 2013\Projects\Interpolyachia Newtona\Debug\Interpolyachia Newtona.exe" /INCREMENTAL /NOLOGO /LIBPATH:"C:\Program Files (x86)\Visual Leak Detector\lib\Win32" kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Олексій\Documents\Visual Studio 2013\Projects\Interpolyachia Newtona\Debug\Interpolyachia Newtona.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Олексій\Documents\Visual Studio 2013\Projects\Interpolyachia Newtona\Debug\Interpolyachia Newtona.lib" /MACHINE:X86 Debug\Dy.obj
+         Debug\main.obj
+         Debug\Step.obj
+         Interpolyachia Newtona.vcxproj -> C:\Users\Олексій\Documents\Visual Studio 2013\Projects\Interpolyachia Newtona\Debug\Interpolyachia Newtona.exe
+     1>Done Building Project "C:\Users\Олексій\Documents\Visual Studio 2013\Projects\Interpolyachia Newtona\Interpolyachia Newtona\Interpolyachia Newtona.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.58
